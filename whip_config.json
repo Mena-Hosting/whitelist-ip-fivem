@@ -1,0 +1,25 @@
+{
+    "database": {
+      "host": "localhost",
+      "port": 3306,
+      "username": "root",
+      "password": "",
+      "database_name": "mena_whip"
+    },
+    "discord": {
+      "prefix": "/",
+      "server_id": 12345678910111213,
+      "token": "DISCORD_BOT_TOKEN",
+      "whip_channel": 12345678910111213,
+
+      "whip_role": 12345678910111213,
+      "whip_devs_role": 12345678910111213,
+      "whip_global_role": 12345678910111213,
+
+      "whip_logs": 12345678910111213
+    },
+    "whitelistip": {
+        "Country": ["Tunisia","Algeria"]
+    }
+  }
+  
